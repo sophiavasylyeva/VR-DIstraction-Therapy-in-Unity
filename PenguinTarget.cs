@@ -1,3 +1,4 @@
+//penguin target
 using UnityEngine;
 
 public class Penguin : MonoBehaviour
